@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP2.iml" filepath="$PROJECT_DIR$/OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Ueb/Stack_Ueb.iml" filepath="$PROJECT_DIR$/Stack_Ueb/Stack_Ueb.iml" />
+    </modules>
+  </component>
+</project>
